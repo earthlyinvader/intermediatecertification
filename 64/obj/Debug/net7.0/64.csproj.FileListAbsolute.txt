@@ -1,0 +1,15 @@
+A:\Промежуточная аттестация\Recursion\64\bin\Debug\net7.0\64.exe
+A:\Промежуточная аттестация\Recursion\64\bin\Debug\net7.0\64.deps.json
+A:\Промежуточная аттестация\Recursion\64\bin\Debug\net7.0\64.runtimeconfig.json
+A:\Промежуточная аттестация\Recursion\64\bin\Debug\net7.0\64.dll
+A:\Промежуточная аттестация\Recursion\64\bin\Debug\net7.0\64.pdb
+A:\Промежуточная аттестация\Recursion\64\obj\Debug\net7.0\64.csproj.AssemblyReference.cache
+A:\Промежуточная аттестация\Recursion\64\obj\Debug\net7.0\64.GeneratedMSBuildEditorConfig.editorconfig
+A:\Промежуточная аттестация\Recursion\64\obj\Debug\net7.0\64.AssemblyInfoInputs.cache
+A:\Промежуточная аттестация\Recursion\64\obj\Debug\net7.0\64.AssemblyInfo.cs
+A:\Промежуточная аттестация\Recursion\64\obj\Debug\net7.0\64.csproj.CoreCompileInputs.cache
+A:\Промежуточная аттестация\Recursion\64\obj\Debug\net7.0\64.dll
+A:\Промежуточная аттестация\Recursion\64\obj\Debug\net7.0\refint\64.dll
+A:\Промежуточная аттестация\Recursion\64\obj\Debug\net7.0\64.pdb
+A:\Промежуточная аттестация\Recursion\64\obj\Debug\net7.0\64.genruntimeconfig.cache
+A:\Промежуточная аттестация\Recursion\64\obj\Debug\net7.0\ref\64.dll
